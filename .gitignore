@@ -1,2 +1,5 @@
 # Project exclude paths
 /out/
+/out/
+/src/
+/B21_Day3Project.iml
